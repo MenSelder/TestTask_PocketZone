@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeaa91f8401eb9b448a3f4cbdc1686b3, type: 3}
+  m_Name: AmmoItem
+  m_EditorClassIdentifier: 
+  PrefabPath: ItemsSO\AmmoItem
+  Name: 5.45x39
+  Icon: {fileID: 21300000, guid: d45f0cae013abb84688afe6e4bc52845, type: 3}
+  Prefab: {fileID: 5329771684439244854, guid: b10a2c87c6c1f334f84619cdcfbbef3d, type: 3}
+  Discription: 12 of 5.45x39
+  amount: 12
+  projectilePrefab: {fileID: 1568200682685091962, guid: 413321c53ae568849897c7049c88f7f6, type: 3}
